@@ -96,10 +96,6 @@ To stop the running script:
 
 - The script includes functionality to automatically rotate the log file `tori2telegram.log` when it reaches a specified size limit, keeping the log management efficient.
 
-## Log File Management
-
-- Regularly check the size of `tori2telegram.log`. The script rotates this file automatically, but be mindful of the disk space used by archived logs.
-
 ## Important Notes
 
 - Adjust the sleep interval with caution to avoid server rate-limiting or high resource consumption.
