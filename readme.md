@@ -30,6 +30,8 @@ To receive notifications, you need to create a Telegram bot and obtain a token:
    ```env
    TELEGRAM_TOKEN=your_telegram_bot_token
    USER_ID=your_telegram_user_id
+   LOG_LEVEL=DEBUG_or_INFO
+   SLEEP_INTERVAL=define_seconds
    ```
 
 ## Installation
