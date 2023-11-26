@@ -99,3 +99,7 @@ To stop the running script:
 ## Important Notes
 
 - Adjust the sleep interval with caution to avoid server rate-limiting or high resource consumption.
+
+## Legal and Compliance Notice 
+
+This script is designed for personal, non-commercial use only. It functions by notifying the user about new listings on Tori.fi, sending direct links (not the content) to a specified personal Telegram account. Users should be aware that this script must be used in compliance with the terms of service of Tori.fi, and any applicable data protection and privacy laws. The script does not create a database or redistribute content from Tori.fi. Users are responsible for ensuring that their use of the script aligns with all legal and regulatory requirements. This tool is not endorsed by or affiliated with Tori.fi or Telegram. For any concerns or questions about legal compliance, users are encouraged to consult with a legal professional.
